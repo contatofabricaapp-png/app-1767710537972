@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.gradle/
+*.iml
+*.ipr
+*.iws
+.idea/
+local.properties
